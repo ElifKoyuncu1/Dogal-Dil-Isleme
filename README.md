@@ -62,4 +62,6 @@ Proje kapsamında kullanılan veri seti, Amazon ürün yorumlarını içermekted
 
 * Model kaydedilir (.model veya .bin olarak)
 
-* Lemma ve stem dosyaları için ayrı ayrı modeller kullanılır. 
+* Lemma ve stem dosyaları için ayrı ayrı modeller kullanılır.
+
+  ***NOT:*** amazon_yorumları.csv dosyam açılmada sıkıntı yaşıyor fakat indirildiğinde herhangi bir sorun olmuyor. 
