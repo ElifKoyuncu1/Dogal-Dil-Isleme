@@ -28,13 +28,13 @@ Proje kapsamında kullanılan veri seti, Amazon ürün yorumlarını içermekted
 
  ## Modelin Oluşturulması
 
-1. Veri Setinin Yüklenmesi
+1. **Veri Setinin Yüklenmesi:**
 
 * pandas ile CSV formatındaki veri seti yüklenir.
 
 * Yorum metni sütunu analiz için seçilir.
 
-2. Ön İşleme:
+2. **Ön İşleme:**
 
 * Küçük harfe çevirme
 
@@ -44,17 +44,17 @@ Proje kapsamında kullanılan veri seti, Amazon ürün yorumlarını içermekted
 
 * Tokenization işlemi
 
-3. Lemmatizasyon ve Stemming
+3. **Lemmatizasyon ve Stemming:**
 
 * Temizlenmiş ve tokenlenmiş yorumlar lemmatize edilip csv dosyasına kaydedilir.
 
 * Temizlenmiş ve tokenlenmiş yorumlar stemize edilir ve csv dosyasına kaydedilir.
 
-4. TF-IDF vektörleştirme
+4. **TF-IDF vektörleştirme:**
 
 * Oluşturulan lemma ve stem dosyaları TF-IDF ile vektörize edilir.
 
-5. Model Eğitimi (Word2Vec):
+5. **Model Eğitimi (Word2Vec):**
 
 * gensim.models.Word2Vec sınıfı ile eğitim yapılır.
 
