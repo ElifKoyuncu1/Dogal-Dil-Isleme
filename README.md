@@ -64,6 +64,8 @@ Proje kapsamında kullanılan veri seti, Amazon ürün yorumlarını içermekted
 
 * Lemma ve stem dosyaları için ayrı ayrı modeller kullanılır.
 
-  ***NOT:*** amazon_yorumları.csv dosyam açılmada sıkıntı yaşıyor fakat indirildiğinde herhangi bir sorun olmuyor. 
+  ***NOT:*** amazon_yorumları.csv dosyam açılmada sıkıntı yaşıyor fakat indirildiğinde herhangi bir sorun olmuyor.
+  
   ***NOT:*** örnek_lemma_stem_karşılaştırma.csv indirildiğinde daha anlamlı bir veriye dönüşmektedir.
+  
   ***NOT:*** tfıdf_lemmatize_ornek.csv ve tfıdf_stem_ornek.csv de aynı şekilde indirildiğinde daha anlamlı bir veriye dönüşmektedir.
