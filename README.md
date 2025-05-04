@@ -12,7 +12,6 @@ Bu projede Amazon yorumlarını doğal dil işleme teknikleriyle geliştirerek d
 
 `pip install matplotlib`
 
-`pip install scikit_learn`
 
 ## Veri Seti Hakkında
 
