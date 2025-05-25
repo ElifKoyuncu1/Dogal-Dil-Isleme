@@ -1,9 +1,0 @@
-Model Adı,5 Benzer Metin,Skorlar,Ortalama
-stemized_model_cbow_window2_dim100.model,"doc_20608, doc_16140, doc_12303, doc_10962, doc_7259","1.0000, 0.9943, 0.9937, 0.9932, 0.9913",0.9945
-stemized_model_cbow_window2_dim300.model,"doc_20608, doc_12303, doc_16140, doc_10962, doc_7259","1.0000, 0.9941, 0.9940, 0.9933, 0.9918",0.9946
-stemized_model_cbow_window4_dim100.model,"doc_20608, doc_16140, doc_12303, doc_10962, doc_7259","1.0000, 0.9884, 0.9867, 0.9862, 0.9818",0.9886
-stemized_model_cbow_window4_dim300.model,"doc_20608, doc_16140, doc_12303, doc_10962, doc_7259","1.0000, 0.9882, 0.9863, 0.9860, 0.9826",0.9886
-stemized_model_skipgram_window2_dim100.model,"doc_20608, doc_16140, doc_10962, doc_12303, doc_7259","1.0000, 0.9981, 0.9976, 0.9974, 0.9964",0.9979
-stemized_model_skipgram_window2_dim300.model,"doc_20608, doc_16140, doc_10962, doc_12303, doc_7259","1.0000, 0.9980, 0.9972, 0.9971, 0.9961",0.9977
-stemized_model_skipgram_window4_dim100.model,"doc_20608, doc_16140, doc_12303, doc_10962, doc_7259","1.0000, 0.9977, 0.9969, 0.9968, 0.9960",0.9975
-stemized_model_skipgram_window4_dim300.model,"doc_20608, doc_16140, doc_10962, doc_12303, doc_7259","1.0000, 0.9975, 0.9964, 0.9962, 0.9952",0.9971
